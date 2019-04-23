@@ -1,3 +1,6 @@
 print("holle git")
 
 print("holle github")
+
+def git:
+    pass
